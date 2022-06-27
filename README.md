@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yana! Welcome to my profile!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Practicing QA automation</h3>
-<h4 align="center">Technology used:</h4>
+<h4 align="left">Technology used:</h4>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <!--
