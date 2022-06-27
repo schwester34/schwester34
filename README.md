@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Practicing QA automation</h3>
 <h4 align="left">Technology used:</h4>
-<img src="" alt="java">
+<img src="https://github.com/schwester34/schwester34/icons/Java.png" alt="java">
 
 
 <!--
