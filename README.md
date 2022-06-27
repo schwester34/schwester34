@@ -11,6 +11,4 @@
 ![Jira](https://user-images.githubusercontent.com/99205353/175907876-1e17719d-8f29-44f1-bc4e-62ace35e25f7.png)
 ![Gradle](https://user-images.githubusercontent.com/99205353/175907927-0bcfc6e5-a252-4c51-9d12-5c983c288860.png)
 ![Telegram](https://user-images.githubusercontent.com/99205353/175907960-1167dc5a-7758-4ebc-8fe1-cade3b29ac71.png)
-![Selenide](https://user-images.githubusercontent.com/99205353/175908555-e6381cc0-2e77-46d3-946b-352b1de27b6e.svg)
-![JUnit5](https://user-images.githubusercontent.com/99205353/175908559-6b2696a4-f3f0-47b2-92f7-6f1cf068bbec.svg)
-![Selenoid](https://user-images.githubusercontent.com/99205353/175908563-21ccc115-c322-4b5b-9a48-6f4fe9416b88.svg)
+
