@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Practicing QA automation</h3>
 <h4 align="left">Technology used:</h4>
-https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java">
+
 
 <!--
 **schwester34/schwester34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
