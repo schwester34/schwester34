@@ -3,7 +3,7 @@
 <h3 align="center">Practicing QA automation</h3>
 <h4 align="left">Technology used:</h4>
 <img src="https://github.com/schwester34/schwester34/icons/Java.png" alt="java">
-
+![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)</br></br>
 
 <!--
 **schwester34/schwester34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
