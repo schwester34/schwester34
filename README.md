@@ -2,8 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">Practicing QA automation</h3>
 
-<h4 align="left">:memo:
-:pencil:Check out my projects</h4>
+<h4 align="left">:memo::pencil:Check out my projects</h4>
 
 * <http://example.com/>
 * <http://example.com/>
