@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Yana! Welcome to my profile!:wave:</a> 
 
-<h3 align="left">Practicing QA automation</h3>
+<h3 align="left">Junior QA Automation Engineer</h3>
 
 <h4 align="left">:pencil:Check out my projects</h4>
 
