@@ -8,7 +8,7 @@
 * <http://example.com/>
 * <http://example.com/>
 
-<h4 align="left">Technology used:</h4>
+<h4 align="left">:zap:Technology used:</h4>
 
 ![Java](https://user-images.githubusercontent.com/99205353/175907558-480b2e8a-8552-4612-872b-f9ab19cd13fe.png)
 ![Intelij_IDEA](https://user-images.githubusercontent.com/99205353/175907646-f4c0d57a-1331-4516-a6d4-82e870b1a31f.png)
