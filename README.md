@@ -20,7 +20,10 @@
 ![Telegram](https://user-images.githubusercontent.com/99205353/175907960-1167dc5a-7758-4ebc-8fe1-cade3b29ac71.png)
 
 
+<h4 align="left">My Stats:</h4>
 
-<h4 align="left">My card in GitHub Stats:</h4>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwester34)](https://github.com/schwester34/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
