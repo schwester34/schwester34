@@ -13,3 +13,4 @@
 ![Gradle](https://user-images.githubusercontent.com/99205353/175907927-0bcfc6e5-a252-4c51-9d12-5c983c288860.png)
 ![Telegram](https://user-images.githubusercontent.com/99205353/175907960-1167dc5a-7758-4ebc-8fe1-cade3b29ac71.png)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwester34)](https://github.com/schwester34/github-readme-stats)
