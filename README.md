@@ -18,6 +18,13 @@
 ![Jira](https://user-images.githubusercontent.com/99205353/175907876-1e17719d-8f29-44f1-bc4e-62ace35e25f7.png)
 ![Gradle](https://user-images.githubusercontent.com/99205353/175907927-0bcfc6e5-a252-4c51-9d12-5c983c288860.png)
 ![Telegram](https://user-images.githubusercontent.com/99205353/175907960-1167dc5a-7758-4ebc-8fe1-cade3b29ac71.png)
+![Android](https://user-images.githubusercontent.com/99205353/177576178-58bc7f48-704d-475b-9c47-7d5827621743.svg)
+![Appium](https://user-images.githubusercontent.com/99205353/177576228-f49b4db7-525b-402d-bf5a-0f57bb5b40e6.svg)
+![Browserstack](https://user-images.githubusercontent.com/99205353/177576244-dd8d2692-905b-43c0-a0d7-9e974d6fb59f.svg)
+![Junit5](https://user-images.githubusercontent.com/99205353/177576267-cf25873d-09c7-4db3-a3db-c1cc7a737dea.svg)
+![Selenide](https://user-images.githubusercontent.com/99205353/177576280-94105989-d59e-459f-821d-79df63676949.svg)
+![Selenoid](https://user-images.githubusercontent.com/99205353/177576300-fa6872e7-4d94-49f6-bdaf-2e99f97be8b7.svg)
+
 
 
 <h4 align="left">My Stats:</h4>
