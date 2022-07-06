@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Yana!+Welcome+ to+ my + profile!)](https://git.io/typing-svg)
 <h1 align="left">Hi there, I'm Yana! Welcome to my profile!</a> 
 
 <h3 align="left">Practicing QA automation</h3>
