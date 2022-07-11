@@ -23,6 +23,7 @@
 ![Selenide](https://user-images.githubusercontent.com/99205353/177577616-0a9eddf7-c199-4eda-b23d-568713f8600e.png)
 ![appium](https://user-images.githubusercontent.com/99205353/177578034-ea5fc39a-0d5b-4131-8c7a-b0f81f21e155.png)
 ![androidstudio](https://user-images.githubusercontent.com/99205353/177578052-ecfd1a9b-6dc0-4993-96d6-46652a0a8533.png)
+![Rest-Assured](https://user-images.githubusercontent.com/99205353/178311714-e1a8b99e-6136-4840-bc55-23955da0fe99.png)
 
 
 
