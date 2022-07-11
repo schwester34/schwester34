@@ -5,7 +5,7 @@
 <h4 align="left">:pencil:Check out my projects</h4>
 
 * <http://example.com/>
-* <http://example.com/>
+* https://github.com/schwester34/api_test
 * <http://example.com/>
 
 <h4 align="left">:zap:Technology used:</h4>
