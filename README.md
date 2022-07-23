@@ -6,7 +6,7 @@
 
 * https://github.com/schwester34/ui_tests
 * https://github.com/schwester34/api_test
-* <http://example.com/>
+
 
 <h4 align="left">:zap:Technology used:</h4>
 
