@@ -23,6 +23,10 @@
 ![Rest-Assured](https://user-images.githubusercontent.com/99205353/178311714-e1a8b99e-6136-4840-bc55-23955da0fe99.png)
 
 
+<h4 align="left">Education, courses</h4>
+
+* QA.GURU
+* Google + Youtube
 
 
 <h4 align="left">:star:My Stats:</h4>
