@@ -23,9 +23,12 @@
 ![Rest-Assured](https://user-images.githubusercontent.com/99205353/178311714-e1a8b99e-6136-4840-bc55-23955da0fe99.png)
 
 
-<h4 align="left">Education, courses</h4>
+<h4 align="left">:mortar_board:Education, courses:</h4>
 
 * QA.GURU
+
+![Р•бгаб 892](https://user-images.githubusercontent.com/99205353/181469832-6fea6dce-96c3-49d6-8a0e-05c0a597756f.png)
+
 * Google + Youtube
 
 
