@@ -2,7 +2,7 @@
 
 <h3 align="left">Junior QA Automation Engineer</h3>
 
-<h4 align="left">:pencil:Check out my projects</h4>
+<h4 align="left">:pencil:Check out my projects:</h4>
 
 * https://github.com/schwester34/ui_tests
 * https://github.com/schwester34/api_test
